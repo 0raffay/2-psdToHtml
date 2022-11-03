@@ -34,7 +34,7 @@ body.about-page .footer-icons a{
     left: 50%;
     height: 100%;
     width: 50%;
-    background-image: url(/assets/images/Location\ Img.png);
+    background-image: url(../images/Location\ Img.png);
     z-index: -1;
 }
 body.contact-page{
@@ -124,6 +124,8 @@ h2{
 }
 
 .section-1-txt{
+    position: relative;
+    bottom: 90px;
     margin-left: auto;
     width: 100%;
 }   
